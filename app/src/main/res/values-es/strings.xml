@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApplicationDioChallenger</string>
+
+    <string name="title">Aplicar la traducción</string>
+    <string name="sub_title">Esta frase cambiará si cambia el idioma de su teléfono a (BR, EN, RU, ES)</string>
+</resources>

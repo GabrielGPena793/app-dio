@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name">ApplicationDioChallenger</string>
+
+    <string name="title">Aplicando Tradução</string>
+    <string name="sub_title">Essa frase irá mudar se você mudar o idioma do seu celular para (BR, EN, RU,ES)</string>
 </resources>
